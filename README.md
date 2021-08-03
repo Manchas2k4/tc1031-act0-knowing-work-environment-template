@@ -2,7 +2,7 @@
 # Act 0 - Familiarizándose con el ambiente de trabajo.
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Accede a la siguiente liga: HTTP y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás el archivo "activity.h". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
+Accede a la siguiente liga: [Act. 0](https://classroom.github.com/a/458xemuA) y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás el archivo "factorial.h". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: factorial.h
